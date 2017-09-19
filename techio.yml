@@ -4,28 +4,28 @@ plan:
   description: introduction
   plan:
       - title: Artifical intelligence at the present time
-        statement: markdowns/ai_today.md
+        statement: ai_today.md
       - title: What is an AI ?
-        statement: markdowns/what_is_ai.md
+        statement: what_is_ai.md
 - title: Search algorithms
   description: search algorithms description
   plan:
       - title: Breadth First Search
-        statement: markdowns/breadth_first_search.md
+        statement: breadth_first_search.md
       - title: Uniform Cost Search
-        statement: markdowns/uniform_cost_search.md
+        statement: uniform_cost_search.md
       - title: Depth First Search
-        statement: markdowns/depth_first_search.md
+        statement: depth_first_search.md
       - title: Greedy algorithm
-        statement: markdowns/greedy_algorithm.md
+        statement: greedy_algorithm.md
       - title: A* algorithm
-        statement: markdowns/a_star_algorithm.md
+        statement: a_star_algorithm.md
 # - title: Game theory
-#   statement: markdowns/game_theory.md
+#   statement: game_theory.md
 # - title: Modelling the uncertain
-#   statement: markdowns/modelling_uncertain.md
+#   statement: modelling_uncertain.md
 # - title: Supervised learning
-#   statement: markdowns/supervised_learning.md
+#   statement: supervised_learning.md
 projects:
   python:
     root: /python-project
