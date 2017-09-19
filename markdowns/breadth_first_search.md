@@ -1,6 +1,6 @@
-# Breadth First Search
+# Bread First Search
 
-```python runnable
+```python
 from envs.MazeEnvironmentV1 import MazeEnvironmentV1
 
 env = MazeEnvironmentV1()
