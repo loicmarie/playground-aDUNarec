@@ -1,7 +1,7 @@
 title: Python Project
 plan:
-- title: Intelligent agents
-  statement: markdowns/intelligent_agents.md
+# - title: Intelligent agents
+#   statement: markdowns/intelligent_agents.md
 - title: Search algorithms
   description: search algorithms description
   plan:
@@ -15,12 +15,12 @@ plan:
         statement: markdowns/greedy_algorithm.md
       - title: A* algorithm
         statement: markdowns/a_star_algorithm.md
-- title: Game theory
-  statement: markdowns/game_theory.md
-- title: Modelling the uncertain
-  statement: markdowns/modelling_uncertain.md
-- title: Supervised learning
-  statement: markdowns/supervised_learning.md
+# - title: Game theory
+#   statement: markdowns/game_theory.md
+# - title: Modelling the uncertain
+#   statement: markdowns/modelling_uncertain.md
+# - title: Supervised learning
+#   statement: markdowns/supervised_learning.md
 projects:
   python:
     root: /python-project
