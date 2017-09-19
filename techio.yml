@@ -4,10 +4,9 @@ plan:
   description: introduction
   plan:
       - title: Artifical intelligence at the present time
-        statement: ai_today.md
+        statement: markdowns/ai_today.md
       - title: What is an AI ?
-        statement: what_is_ai.md
-  statement: markdowns/intelligent_agents.md
+        statement: markdowns/what_is_ai.md
 - title: Search algorithms
   description: search algorithms description
   plan:
