@@ -1,4 +1,4 @@
-# Bread First Search
+# Breadth First Search
 
 ```python runnable
 from envs.MazeEnvironmentV1 import MazeEnvironmentV1
