@@ -3,10 +3,12 @@ plan:
 - title: Introducing artificial intelligence
   description: introduction
   plan:
-      - title: Artifical intelligence at the present time
-        statement: markdowns/ai_today.md
-      - title: What is an AI ?
-        statement: markdowns/what_is_ai.md
+      # - title: Artifical intelligence at the present time
+      #   statement: markdowns/ai_today.md
+      # - title: What is an AI ?
+      #   statement: markdowns/what_is_ai.md
+      - title: Data structures
+        statement: data_structures.md
 - title: Search algorithms
   description: search algorithms description
   plan:
