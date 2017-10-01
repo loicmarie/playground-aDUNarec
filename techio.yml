@@ -8,7 +8,7 @@ plan:
       # - title: What is an AI ?
       #   statement: markdowns/what_is_ai.md
       - title: Data structures
-        statement: data_structures.md
+        statement: markdowns/data_structures.md
 - title: Search algorithms
   description: search algorithms description
   plan:
