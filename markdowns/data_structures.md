@@ -21,3 +21,8 @@ a = set(range(10**6))
 print(10 in a)
 print("--- %s seconds ---" % (time.time() - start_time))
 ```
+
+| test | truc |
+|------|------|
+|hello | j |
+| g | gd |
