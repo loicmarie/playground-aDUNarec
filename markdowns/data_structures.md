@@ -22,7 +22,7 @@ print(10 in a)
 print("--- %s seconds ---" % (time.time() - start_time))
 ```
 
-| test | truc |
-|------|------|
-|hello | j |
-| g | gd |
+| test1 | test2 |
+|-------|-------|
+| key1 | val1 |
+| key2 | $`a = b`$ |
