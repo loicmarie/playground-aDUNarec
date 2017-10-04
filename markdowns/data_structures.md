@@ -6,7 +6,7 @@ to handle data in the most optimal manner.
 
 ## Why is it so important ? I thought a simple list should do the job.
 
-In theory that's right, but the performances of your algorithm will highly depend on this choice. In some cases, a list will be sufficient, in others it will be irrelevant for some reasons. Let's take an example:
+In theory that's right, but the performances of your algorithm will highly depend on this choice. In some cases, a list will be sufficient, in others it will be irrelevant for some reasons. Let's take an exampl:
 
 ```python runnable
 import time
