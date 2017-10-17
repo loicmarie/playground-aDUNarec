@@ -25,4 +25,3 @@ print("--- %s seconds ---" % (time.time() - start_time))
 | test1 | test2 |
 |-------|-------|
 | key1 | val1 |
-| key2 | $`a = b`$ |
